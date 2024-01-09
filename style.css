@@ -53,9 +53,14 @@
   
   /* article */
   article {
+    position:sticky;
 	  text-align: center;
 	  max-width: 45rem;
 	  margin: auto;
+    display: block;
+    margin: 10px;
+    border: 1px solid black;
+    border-style: dotted;
   }
   article p, article ul {
 	  text-align: left;
