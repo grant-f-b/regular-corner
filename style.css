@@ -19,8 +19,9 @@
   header  {
 	  line-height: 10%;
 	text-align: center;
-	background: #9acd32;
+	/* background: #9acd32; */
 	height: 17vh;
+  background-image: linear-gradient(to top, #f9ebc4, #f0e4a8, #e3dd8c, #d2d871, #bdd357, #b2d14b, #a7cf3f, #9acd32, #9acd32, #9acd32, #9acd32, #9acd32);
   }
   header p {
 	  text-align: right;
@@ -45,7 +46,7 @@
   #main > nav, 
   #main > aside {
 	flex: 0 0 20vw;
-	background: rgb(237, 211, 123);
+	background: #F9EBC4;
   }
   #main > nav {
 	order: -1;
