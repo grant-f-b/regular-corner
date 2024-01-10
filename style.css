@@ -50,6 +50,9 @@
   #main > nav {
 	order: -1;
   }
+  #main > aside {
+    order: +1;
+    }
 
   
   /* article */
