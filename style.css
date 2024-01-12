@@ -28,7 +28,7 @@
 	  text-align: right;
 	max-width: 45rem;
 	margin: auto;
-  padding:1%
+  padding:1.5%
   }
   
   footer {
@@ -88,6 +88,11 @@
 	font-weight: bold;
   line-height: 200%;
 	
+
+  }
+  
+  aside {
+
 
   }
   
