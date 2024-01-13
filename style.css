@@ -48,20 +48,26 @@
   #main {
 	display: flex;
 	flex: 1;
+  width: 100%;
   }
   #main > article {
 	flex: 1;
   }
   #main > nav, 
   #main > aside {
-	flex: 0 0 20vw;
+	flex: 10 0 20vw;
 	background: #F9EBC4;
   }
   #main > nav {
 	order: -1;
+  font-weight: bold;
+  line-height: 200%;
   }
   #main > aside {
     order: +1;
+    font-weight: bold;
+    line-height: 200%;
+    width: 10%;
     }
 
   
@@ -69,7 +75,8 @@
   article {
     position:sticky;
 	  text-align: center;
-	  max-width: 100%;
+	  max-width: 800%;
+    padding: 10%;
 	  margin: auto;
     display: block;
     margin: 10px;
@@ -89,19 +96,6 @@
 	  object-fit: contain;
   }
   
-  /* menu */
-  nav { 
-	font-weight: bold;
-  line-height: 200%;
-	
 
-  }
-
-  aside {
-    font-weight: bold;
-    line-height: 200%;
-
-
-  }
   
  
