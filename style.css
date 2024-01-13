@@ -91,25 +91,14 @@
 	  margin: 1em auto;
   }
   article img {
-	  /* max-width: 25rem;
-	  max-height: 25rem; */
+	  max-width: 25rem;
+	  max-height: 25rem;
 	  object-fit: contain;
-    /* width: 10px;
-    height: auto; */
+
   }
   
 
   /* img */
- /* article .image2 {
-    float: left;
-    width: 200px;
-    height: auto;
-  }
-  
- article .image1 {
-    float: left;
-    width: 300px;
-    height: auto;
-  } */
+
   
  
