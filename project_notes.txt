@@ -7,22 +7,26 @@ https://nalinplad.github.io/small_web_things/ -- html tool templates
 
     html/css/md TUTORIAL SITES:
 https://moth.monster/blog/html-tutorial/ -- html tutorial
-
+	
 https://blog.thejaytray.com/html5-css-layout/ -- html template
-https://www.w3docs.com/learn-html/html-layout-templates.html -- html templates
+https://www.w3docs.com/learn-html/html-layout-templates.html -- html template
 https://www.programiz.com/html/layout -- html template
-
-https://www.sitepoint.com/a-basic-html5-template/ -- head template 
-
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/tutorial/nested_flex_containers_example_2 -- html template
+	
+https://www.sitepoint.com/a-basic-html5-template/ -- head template
+https://favicon.io/favicon-converter/ -- favicon generator
+	
 https://md-block.verou.me/#usageHow -- to Render Markdown on a Web Page With md-block (makeuseof.com)
-https://marketingpipeline.github.io/Markdown-Tag/
-https://www.makeuseof.com/md-block-render-markdown-web-page/
-
-https://tfoote.github.io/design/courses/how-to-contribute/topics/embedding-google-docs/ -- embed google sheets 
-
+https://marketingpipeline.github.io/Markdown-Tag/	
+https://www.makeuseof.com/md-block-render-markdown-web-page/	
+	
+https://tfoote.github.io/design/courses/how-to-contribute/topics/embedding-google-docs/ -- embed google sheets
+	
+https://www.w3schools.com/tags/tag_font.asp	
 
     POLL SITES:
 https://www.geeksforgeeks.org/elo-rating-algorithm/amp/
 https://www.w3resource.com/javascript-exercises/fundamental/javascript-fundamental-exercise-75.php
 https://www.tableau.com/blog/38-examples-football-data-analysis
+
 
