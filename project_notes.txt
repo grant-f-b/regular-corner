@@ -29,4 +29,6 @@ https://www.geeksforgeeks.org/elo-rating-algorithm/amp/
 https://www.w3resource.com/javascript-exercises/fundamental/javascript-fundamental-exercise-75.php
 https://www.tableau.com/blog/38-examples-football-data-analysis
 
+<!-- <div style="text-align: center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnzdz2CMRJnBDieD9G_-B1ZKjbcmXOrPlYX2a23sNZ0heUMAMPQFvL526iuxjbpcugRIG6yNlukM87/pubhtml?gid=124736343&single=true&range=q2:s26&widget=false&chrome=false" width="307" height="521"></iframe></div> -->
+
 
